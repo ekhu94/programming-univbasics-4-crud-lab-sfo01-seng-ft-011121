@@ -29,7 +29,11 @@ def retrieve_element_from_index(arr, idx)
 end
   
 def retrieve_first_element_from_array(arr)
-  
+  arr[0]
+end
+
+def retrieve_last_element_from_array(arr)
+  arr[-1]
 end
 
   
